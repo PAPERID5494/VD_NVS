@@ -1,5 +1,21 @@
 ## Zero-shot Novel View Synthesis via Adaptive Modulating Video Diffusion Process
 
+### Visual Results
+#### Single view input
+<img src='./Assets/Single/Ours_gif/ignatius.gif' width='150'>  <img src='./Assets/Single/Ours_gif/family.gif' width='150'>  <img src='./Assets/Single/Ours_gif/palace.gif' width='150'>  <img src='./Assets/Single/Ours_gif/church.gif' width='150'>  <img src='./Assets/Single/Ours_gif/barn.gif' width='150'> 
+
+#### Multi-view input (2 views)
+<img src='./Assets/multi/ours_01/truck_generated.gif' width='150'>  <img src='./Assets/multi/ours_01/Ours_playground_generated.gif' width='150'>  <img src='./Assets/multi/ours_01/caterpillar_generated.gif' width='150'>  <img src='./Assets/multi/ours_01/scan55_generated.gif' width='150'>  <img src='./Assets/multi/ours_01/scan3_generated.gif' width='150'> 
+
+#### Monocular video input
+<img src='./Assets/dynamic/Ours_gif_01/Ours_train52.gif' width='150'>  <img src='./Assets/dynamic/Ours_gif_01/Ours_bus1.gif' width='150'>  <img src='./Assets/dynamic/Ours_gif_01/Ours_train31.gif' width='150'>  <img src='./Assets/dynamic/Ours_gif_01/deer1.gif' width='150'>  <img src='./Assets/dynamic/Ours_gif_01/street1.gif' width='150'> 
+
+#### 360° NVS
+<img src='./Assets/360/park.gif' width='230'> <img src='./Assets/360/caterpillar.gif' width='230'> 
+
+
+
+
 ### Dependencies
 
 * Linux
